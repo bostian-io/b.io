@@ -1,6 +1,6 @@
 baseURL = 'http://bostian.io/'
 languageCode = 'en-us'
-title = 'My website'
+title = 'Philip Bostian'
 theme = 'typo'
 
 # publishing directory
@@ -14,7 +14,7 @@ googleAnalytics = "G-xxxxxxxxx"
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = "The technical blog and website of Philip Bostian"
 
 # Appearance settings
 theme = 'auto'
@@ -24,8 +24,9 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+I design and develop AI products and have a passion for innovation in the life sciences.
+
+Read more [about me](/b.io) or check out my [posts](/posts) or [projects](/projects).
 """
 
 # Collection to display on home
@@ -63,8 +64,12 @@ name = "posts"
 url = "/posts"
 
 [[params.menu]]
-name = "about"
-url = "/about"
+name = "projects"
+url = "/projects"
+
+[[params.menu]]
+name = "b.io"
+url = "/b.io"
 
 # Syntax highligth on code blocks
 [markup]
