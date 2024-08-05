@@ -1,4 +1,4 @@
-baseURL = 'https://bostian-io.github.io/bost.io/'
+baseURL = 'https://bostian-io.github.io/bost.io'
 languageCode = 'en-us'
 title = 'My website'
 theme = 'typo'
