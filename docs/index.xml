@@ -22,5 +22,12 @@
       <guid>http://bostian.io/posts/first-post/</guid>
       <description>An LSM Tree overview and Java implementation.</description>
     </item>
+    <item>
+      <title>Neurosymbolic Programming</title>
+      <link>http://bostian.io/projects/first-project/</link>
+      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://bostian.io/projects/first-project/</guid>
+      <description>An Neurosymbolic Programming implementation.</description>
+    </item>
   </channel>
 </rss>

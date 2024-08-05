@@ -17,7 +17,13 @@
     <loc>http://bostian.io/posts/first-post/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://bostian.io/projects/first-project/</loc>
+    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://bostian.io/posts/</loc>
+    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://bostian.io/projects/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://bostian.io/tags/</loc>
