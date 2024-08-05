@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://bostian-io.github.io/bost.io/about/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/database/</loc>
+    <loc>https://bostian-io.github.io/bost.io/tags/database/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://bostian-io.github.io/bost.io/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/java/</loc>
+    <loc>https://bostian-io.github.io/bost.io/tags/java/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/first-post/</loc>
+    <loc>https://bostian-io.github.io/bost.io/posts/first-post/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://bostian-io.github.io/bost.io/posts/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://bostian-io.github.io/bost.io/tags/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/g-xxxxxxxxx/</loc>
+    <loc>https://bostian-io.github.io/bost.io/g-xxxxxxxxx/</loc>
   </url>
 </urlset>
