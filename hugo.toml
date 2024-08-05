@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'My website'
 theme = 'typo'
 
+# publishing directory
+publishDir = "docs"
+
 [taxonomies]
 tag = 'tags'
 
