@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "b.io"
 date: "2023-11-12"
 summary: "Philip Bostian b.io"
 description: "A bit more about Philip Bostian."

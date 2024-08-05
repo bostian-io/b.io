@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://bostian.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>about</title>
-      <link>http://bostian.io/about/</link>
+      <title>b.io</title>
+      <link>http://bostian.io/bio/</link>
       <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://bostian.io/about/</guid>
+      <guid>http://bostian.io/bio/</guid>
       <description>Philip Bostian b.io</description>
     </item>
     <item>
