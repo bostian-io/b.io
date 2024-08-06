@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://bostian.io/</loc>
     <lastmod>2024-08-06T05:20:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://bostian.io/posts/</loc>
     <lastmod>2024-08-06T05:20:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/second-post/</loc>
+    <loc>http://bostian.io/posts/second-post/</loc>
     <lastmod>2024-08-06T05:20:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2024-08-05-second-post.md/</loc>
-    <lastmod>2024-08-06T05:20:19+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/database/</loc>
+    <loc>http://bostian.io/tags/astro/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
+    <loc>http://bostian.io/tags/database/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>http://bostian.io/tags/java/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/first-project/</loc>
+    <loc>http://bostian.io/posts/first-post/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://bostian.io/projects/first-project/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://bostian.io/projects/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/b.io/</loc>
+    <loc>http://bostian.io/tags/</loc>
+    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/g-xxxxxxxxx/</loc>
+    <loc>http://bostian.io/b.io/</loc>
+  </url><url>
+    <loc>http://bostian.io/g-xxxxxxxxx/</loc>
   </url>
 </urlset>
