@@ -25,6 +25,8 @@ hideHeader = false
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
 ![pixel art Philip Bostian](/pixel-pfp-200x200.png)
+
+
 I design and develop AI products and have a passion for innovation in the life sciences.
 
 Read more [about me](/b.io) or check out my [posts](/posts) or [projects](/projects).
