@@ -1,16 +1,6 @@
----
-title: "b.io"
-date: 
-summary: "A bit more about Philip Bostian."
-description: "A bit more about Philip Bostian."
-toc: false
-readTime: false
-autonumber: false
-math: false
-tags:
-showTags: false
-hideBackToTop: true
----
++++
+title = 'b.io'
++++
 ![pixel art Philip Bostian](/pixel-pfp-200x200.png)
 
 

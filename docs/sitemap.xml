@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://bostian.io/bio/</loc>
-    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://bostian.io/tags/database/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,7 +26,7 @@
     <loc>http://bostian.io/tags/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://bostian.io/b.io/</loc>
+    <loc>http://bostian.io/b.io2/</loc>
   </url><url>
     <loc>http://bostian.io/g-xxxxxxxxx/</loc>
   </url>
