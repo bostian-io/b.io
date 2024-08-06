@@ -83,7 +83,7 @@ style = 'algol'
 [params.giscus]
 enable = true
 repo = "bostian-io/b.io"
-repoid = "rR_kgDOMfV_zQ"
+repoid = "R_kgDOMfV_zQ"
 category = "bostian.io comments"
 categoryid = "DIC_kwDOMfV_zc4ChbLJ"
 mapping = "pathname"
