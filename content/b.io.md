@@ -1,5 +1,6 @@
 +++
 title = 'b.io'
+hideBackToTop = true
 +++
 ![pixel art Philip Bostian](/pixel-pfp-200x200.png)
 
