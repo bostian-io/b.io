@@ -81,7 +81,7 @@ style = 'algol'
 
 # Giscus comments
 [params.giscus]
-enable = false
+enable = true
 repo = "bostian-io/b.io"
 repoid = "rR_kgDOMfV_zQ"
 category = "bostian.io comments"
