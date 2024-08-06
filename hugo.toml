@@ -18,7 +18,7 @@ description = "The technical blog and website of Philip Bostian"
 
 # Appearance settings
 theme = 'auto'
-colorPalette = 'default'
+colorPalette = 'eink'
 hideHeader = false
 
 # Intro on main page, content is markdown
@@ -52,7 +52,7 @@ url = "https://medium.com/@user"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/bostian-io"
 
 # Main menu pages
 [[params.menu]]
