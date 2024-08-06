@@ -82,10 +82,10 @@ style = 'algol'
 # Giscus comments
 [params.giscus]
 enable = false
-repo = "user/repo"
-repoid = "repoId"
-category = "General"
-categoryid = "categoryId"
+repo = "bostian-io/b.io"
+repoid = "rR_kgDOMfV_zQ"
+category = "bostian.io comments"
+categoryid = "DIC_kwDOMfV_zc4ChbLJ"
 mapping = "pathname"
 theme = "preferred_color_scheme"
 
