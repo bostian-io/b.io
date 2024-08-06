@@ -24,7 +24,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-![Pixel Art Philip Bostian](/pixel-pfp.png){:style="width: 25%;"}
+![Pixel Art Philip Bostian](/pixel-pfp.png#pfp)
 
 I design and develop AI products and have a passion for innovation in the life sciences.
 
