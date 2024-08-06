@@ -11,7 +11,7 @@ tags:
 showTags: false
 hideBackToTop: false
 ---
-![pixel art Philip Bostian](/pixel-pfp.png#small)
+![pixel art Philip Bostian](/pixel-pfp-256x256.png)
 I am an American digital nomad with experience designing and building AI products from initial concept to beta stage and aligning execution with technical and business goals and objectives. There are currently two shiny new generative AI products in the pipeline which will be released soon. I have spent the better part of the last two years dedicated to this.
 
 In a past life I was a portrait photographer and worked in sales. If you want to learn more about my personal and professional interests, you can read about that [here](/posts).
