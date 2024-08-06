@@ -9,7 +9,7 @@ autonumber: false
 math: false
 tags:
 showTags: false
-hideBackToTop: false
+hideBackToTop: true
 ---
 ![pixel art Philip Bostian](/pixel-pfp-200x200.png)
 
