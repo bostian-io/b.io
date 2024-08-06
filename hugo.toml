@@ -17,12 +17,12 @@ googleAnalytics = "G-xxxxxxxxx"
 description = "The technical blog and website of Philip Bostian"
 
 # Appearance settings
-theme = 'auto'
-colorPalette = 'eink'
+theme = 'dark'
+colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Hello there!'
 homeIntroContent = """
 I design and develop AI products and have a passion for innovation in the life sciences.
 
