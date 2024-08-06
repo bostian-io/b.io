@@ -7,8 +7,8 @@ toc: true
 readTime: true
 autonumber: true
 math: true
-tags: ["database", "java"]
-showTags: false
+tags: ["database", "java", "astro"]
+showTags: true
 hideBackToTop: false
 ---
 Neurosymbolic Programming is about symbolic representation. 
