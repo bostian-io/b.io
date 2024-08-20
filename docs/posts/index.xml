@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Philip Bostian</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://bostian.io/posts/</link>
     <description>Recent content in Posts on Philip Bostian</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2024 05:20:19 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://bostian.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Post</title>
-      <link>http://localhost:1313/posts/second-post/</link>
+      <link>http://bostian.io/posts/second-post/</link>
       <pubDate>Tue, 06 Aug 2024 05:20:19 +0000</pubDate>
-      <guid>http://localhost:1313/posts/second-post/</guid>
+      <guid>http://bostian.io/posts/second-post/</guid>
       <description>An overview of learning in public.</description>
     </item>
     <item>
-      <title>Alignment</title>
-      <link>http://localhost:1313/posts/alignment-with-domain-space/</link>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/alignment-with-domain-space/</guid>
-      <description>An Neurosymbolic Programming implementation.</description>
-    </item>
-    <item>
       <title>Log-Structured Merge Tree</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>http://bostian.io/posts/first-post/</link>
       <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>http://bostian.io/posts/first-post/</guid>
       <description>An LSM Tree overview and Java implementation.</description>
     </item>
   </channel>
