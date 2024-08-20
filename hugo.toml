@@ -69,7 +69,7 @@ url = "/projects"
 
 [[params.menu]]
 name = "vault"
-url = "https://publish.obsidian.md/b-io/"
+url = "https://publish.obsidian.md/b-io/Home+%E2%97%8A"
 rel = "noopener noreferrer"
 target = "_blank"
 
