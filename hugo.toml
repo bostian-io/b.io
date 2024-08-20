@@ -26,7 +26,7 @@ homeIntroTitle = 'Hello there!'
 homeIntroContent = """
 I design and develop AI products and have a passion for innovation in the life sciences.
 
-Read more [about me](/b.io) or check out my [posts](/posts), [projects](/projects), or [public vault](/vault).
+Read more [about me](/b.io) or check out my [posts](/posts), [projects](/projects), or [public vault](https://publish.obsidian.md/b-io/Home+%E2%97%8A).
 """
 
 # Collection to display on home
